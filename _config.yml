@@ -20,7 +20,7 @@ cusdis:
     app_id: #your cusdis app_id
 
 user:
-  name: Catbook
+  name: 舒尔美眼镜
   pic: /assets/img/cat.jpg
   picAlt: "catbook"
   job: 日常工作内容
