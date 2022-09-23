@@ -1,0 +1,16 @@
+---
+layout: post
+title: "【办公室】每月生日汇总"
+category: Office
+---
+
+
+C7为身份证号码
+
+月=MID(C7,11,2)
+
+
+日=MID(C7,13,2)
+
+
+![birthday](/images/birthday.png)
