@@ -26,10 +26,18 @@ category: DingDing
 
 ## 二、门店、部门负责人 提交处罚单
 
+1. 填写处罚单，罚款金额可留空，如后台人员敲定，在工资里扣，不会单独收罚款
+
+![process](/images/front.png)
+
+
+
 ## 三、后台人员 办理处罚单
 
-1、点击办理
+1. 点击办理
+
 ![process](/images/process.png)
 
-2、填写罚款金额，并保存
+2. 填写罚款金额，并保存
+
 ![console](/images/console.png)
